@@ -3,34 +3,113 @@
     "title": "Haiti — Key Statistics",
     "lastUpdated": "6 October 2026",
     "indicatorThemes": 12,
-    "context": {"population": "11,867,032", "period": "2024"}
+    "context": {
+      "population": "11,867,032",
+      "period": "2024"
+    }
   },
   "social": {
     "cards": [
-      {"label":"Internally displaced people","value":"1.47m","period":"May 2026","source":"IOM Displacement Tracking Matrix","source_url":"https://dtm.iom.int/reports/haiti-information-sheet-displacement-situation-round-13-may-2026"},
-      {"label":"Schools closed","value":"1,606","secondary":"243,000+ students affected","period":"2024–25 academic year","source":"UNICEF","source_url":"https://www.unicef.org/appeals/haiti"},
-      {"label":"Population","value":"11,867,032","period":"2024","source":"IHSI","source_url":"https://ihsi.gouv.ht/public/"}
+      {
+        "label": "Internally displaced people",
+        "value": "1.47m",
+        "period": "May 2026",
+        "source": "IOM Displacement Tracking Matrix",
+        "source_url": "https://dtm.iom.int/reports/haiti-information-sheet-displacement-situation-round-13-may-2026"
+      },
+      {
+        "label": "Schools closed",
+        "value": "1,606",
+        "secondary": "243,000+ students affected",
+        "period": "2024–25 academic year",
+        "source": "UNICEF",
+        "source_url": "https://www.unicef.org/appeals/haiti"
+      },
+      {
+        "label": "Homicides",
+        "value": "9,063",
+        "period": "2025",
+        "secondary": "Recorded by BINUH during 2025",
+        "source": "United Nations / BINUH",
+        "source_url": "https://www.un.org/sexualviolenceinconflict/wp-content/uploads/2026/04/report/united-nations-integrated-office-in-haiti-report-of-the-secretary-general/8788fc76-904c-49e0-abe6-6bab89bcf2de.pdf"
+      }
     ],
-    "visuals":[
-      {"label":"Acute food insecurity","value":"52%","secondary":"About 5.8 million people","period":"Mar–Jun 2026","source":"IPC","source_url":"https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1162842/"}
+    "visuals": [
+      {
+        "label": "Acute food insecurity",
+        "value": "52%",
+        "secondary": "About 5.8 million people",
+        "period": "Mar–Jun 2026",
+        "source": "IPC",
+        "source_url": "https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1162842/"
+      }
     ]
   },
   "economic": {
     "cards": [
-      {"label":"Real GDP growth","value":"-2.7%","period":"2024–2025","source":"IHSI","source_url":"https://ihsi.gouv.ht/public/"},
-      {"label":"Inflation","value":"17.0%","period":"August 2026","source":"IHSI","source_url":"https://www.ihsi.gouv.ht/statistiques/statistiques_economiques/ipc"},
-      {"label":"Diaspora remittances","value":"US$4.111bn","secondary":"+9.5%","source":"IHSI National Accounts","source_url":"https://www.ihsi.gouv.ht/public/statistiques/statistiques_economiques/comptes_nationaux"},
-      {"label":"International reserves","value":"~US$3.4bn","secondary":">7 months of prospective imports","source":"Ministry of Economy and Finance","source_url":"https://www.mef.gouv.ht/index.php/troisieme-revue-du-programme-de-suivi-par-les-services-du-fmi-et-demande-de-prolongation"}
+      {
+        "label": "Real GDP growth",
+        "value": "-2.7%",
+        "period": "2024–2025",
+        "source": "IHSI",
+        "source_url": "https://ihsi.gouv.ht/public/"
+      },
+      {
+        "label": "Inflation",
+        "value": "17.0%",
+        "period": "August 2026",
+        "source": "IHSI",
+        "source_url": "https://www.ihsi.gouv.ht/statistiques/statistiques_economiques/ipc"
+      },
+      {
+        "label": "Diaspora remittances",
+        "value": "US$4.111bn",
+        "secondary": "+9.5%",
+        "source": "IHSI National Accounts",
+        "source_url": "https://www.ihsi.gouv.ht/public/statistiques/statistiques_economiques/comptes_nationaux",
+        "period": "2023–2024 fiscal year"
+      },
+      {
+        "label": "International reserves",
+        "value": "~US$3.4bn",
+        "secondary": ">7 months of prospective imports",
+        "source": "Ministry of Economy and Finance",
+        "source_url": "https://www.mef.gouv.ht/index.php/troisieme-revue-du-programme-de-suivi-par-les-services-du-fmi-et-demande-de-prolongation"
+      }
     ]
   },
   "environment": {
     "cards": [
-      {"label":"Basic drinking-water access","value":"73%","secondary":"Rural: 55%","period":"2024","source":"WHO/UNICEF JMP via World Bank","source_url":"https://data.worldbank.org/indicator/SH.H2O.BASW.ZS?locations=HT"},
-      {"label":"Forest area","value":"12.3%","period":"2023","source":"FAO / World Bank","source_url":"https://data.worldbank.org/indicator/AG.LND.FRST.ZS?locations=HT"},
-      {"label":"2021 earthquake recovery needs","value":"US$1.98bn","secondary":"Damage and losses: US$1.62bn","source":"World Bank / Government-led PDNA","source_url":"https://documents1.worldbank.org/curated/en/099020725174011573/pdf/BOSIB-f3a67254-0225-4811-b1fd-df828492c0de.pdf"}
+      {
+        "label": "Waste disposal system",
+        "value": "1 official site",
+        "secondary": "Truitier is Haiti’s only official landfill; access has been disrupted and informal dumping remains widespread",
+        "source": "World Bank Haiti assessment",
+        "source_url": "https://thedocs.worldbank.org/en/doc/aebfe0d6bc8d531600611abb53f1f5a5-0370012025/original/WB-RCIA-REP-ENG.pdf"
+      },
+      {
+        "label": "Forest area",
+        "value": "12.3%",
+        "period": "2023",
+        "source": "FAO / World Bank",
+        "source_url": "https://data.worldbank.org/indicator/AG.LND.FRST.ZS?locations=HT"
+      },
+      {
+        "label": "2021 earthquake recovery needs",
+        "value": "US$1.98bn",
+        "secondary": "Damage and losses: US$1.62bn",
+        "source": "World Bank / Government-led PDNA",
+        "source_url": "https://documents1.worldbank.org/curated/en/099020725174011573/pdf/BOSIB-f3a67254-0225-4811-b1fd-df828492c0de.pdf"
+      }
     ],
-    "visuals":[
-      {"label":"Access to electricity","value":"53.9%","period":"2024","source":"World Bank","source_url":"https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=HT"}
+    "visuals": [
+      {
+        "label": "Access to electricity",
+        "value": "53.9%",
+        "period": "2024",
+        "source": "World Bank",
+        "source_url": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=HT"
+      }
     ]
   }
 }
